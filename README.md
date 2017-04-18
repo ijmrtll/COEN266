@@ -1,2 +1,2 @@
-# COEN 266 - Artifitial Intelligence
+# COEN 266 - Artificial Intelligence
 Repository for the class assignments
